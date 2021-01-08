@@ -27,7 +27,7 @@ This is a project about myself. It includes examples of practice work I have don
 
 ## License
 
-MIT
+[MIT](LICENSE.txt)
 
 ## Contact Information
 

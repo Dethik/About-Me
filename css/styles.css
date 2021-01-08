@@ -43,3 +43,7 @@ img {
 body {
   background-color: rgba(255, 194, 229, 0.308)
 }
+
+#mepara {
+  line-height: 20px;
+}
