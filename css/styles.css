@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-style: italic;
+}
+
+.Important {
+  color: purple;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.projects {
+  line-height: 24px;
+}
+
+.projects p {
+  color: red
+}
+
