@@ -5,7 +5,15 @@ h1 {
 }
 
 h2 {
-  font-size: x-large;
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+}
+
+h4.Important {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
 }
 
 img {
