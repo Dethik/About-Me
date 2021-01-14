@@ -3,38 +3,32 @@ h1 {
   font-style: italic;
   text-align: center;
 }
-
 h2 {
   font-size: xx-large;
   font-weight: bolder;
   text-align: center;
 }
-
 h4.Important {
   font-size: xx-large;
   font-weight: bolder;
   text-align: center;
 }
-
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   border: 4px solid green;
 }
-
 .topper {
   font-size: x-large;
   font-weight: bolder;
   text-align: center;
 }
-
 .Important {
   color: purple;
   font-weight: bold;
   font-size: larger;
 }
-
 .projects {
   font-family: sans-serif;
   line-height: 24px;
@@ -42,16 +36,13 @@ img {
   padding: 4px;
   background-color: lightgray;
 }
-
 .projects h2 {
   color: purple;
 }
-
 .projects p {
   font-weight: bold;
   color: red;
 }
-
 .gaming {
   float: right;
   line-height: 20px;
@@ -61,47 +52,38 @@ img {
   width: 60%;
   background-color: lightgrey;
 }
-
 body {
   background-color: rgba(0, 255, 242, 0.212);
 }
-
 #mepara {
   line-height: 20px;
   font-family: sans-serif;
   border: 3px solid blue;
   padding: 4px;
 }
-
 #personal {
   line-height: 20px;
 }
-
 .pets {
   line-height: 20px;
   font-family: sans-serif;
   border: 2px solid blue;
   padding: 4px;
 }
-
 span {
   font-weight: bolder;
   font-family: cursive;
   font-size: large;
 }
-
-#Pip {
+#pip {
   color: darkred;
 }
-
-#Lucky {
+#lucky {
   color: darkblue;
 }
-
-#Han {
+#han {
   color: darkslategray
 }
-
-#Clem {
+#clem {
   color: darkviolet
 }

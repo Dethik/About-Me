@@ -18,8 +18,8 @@ This is a project about myself. It includes examples of practice work I have don
 
 * Open Git Bash
 * Use command 'git clone https://github.com/Dethik/About-Me'
-* Open the .html with Web Browser
-* Use VS Code to edit as necessary.
+* Navigate to top level of directory
+* Open About-Myself.html in your browser.
 
 ## Known Bugs
 
