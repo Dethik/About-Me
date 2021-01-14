@@ -32,3 +32,5 @@ This is a project about myself. It includes examples of practice work I have don
 ## Contact Information
 
 Email: Thorgrim88@gmail.com
+
+Here is a link to my [gh-pages](https://dethik.github.io/About-Me/)
