@@ -19,7 +19,7 @@ This is a project about myself. It includes examples of practice work I have don
 * Open Git Bash
 * Use command 'git pull https://github.com/Dethik/About-Me'
 * Navigate to top level of directory
-* Open About-Myself.html in your browser of choice.
+* Open index.html in your browser of choice.
 
 ## Known Bugs
 
